@@ -1,0 +1,54 @@
+.custom-header {
+    background-image:url("../forest-3877365_1280.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+ 
+body {text-align:center;}
+
+.custom-dark-glow {
+    color: #f3eff5;
+    text-shadow:1px 1px 10px #000000, 1px 1px 10px rgb(29, 29, 29);
+}
+
+.about-section {
+    background-color: #0d2818;
+    color: #f3eff5;
+}
+
+.classes-section{
+    background-color: #1e2f23;
+    color: #f3eff5;
+}
+
+.interests-section {
+    background-color: #0d2818;
+    color: #f3eff5;
+}
+
+.my-custom-color {background-color:#4B9CD3;}
+
+.tab-content > .active {
+    display: block;
+    background-color: #0d2818;
+    padding-bottom: 1rem;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+
+ .nav-link:hover {
+    color: #044d29;
+  }
+  
+  .nav-link { 
+      color:#f3eff5;
+}
+  
+h1, h2 {
+    font-family: 'Cactus Classical Serif', serif;
+}
+
+h3 {
+ margin-top: 3rem;
+ margin-bottom: 2rem;
+}
